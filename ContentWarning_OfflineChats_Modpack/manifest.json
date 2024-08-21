@@ -1,0 +1,19 @@
+{
+  "name": "ContentWarning_OfflineChats_Modpack",
+  "version_number": "1.0.0",
+  "website_url": "",
+  "description": "The coolest modpack, yo.",
+  "dependencies": [
+	"cw_qwbarch-BarchLib-1.0.1",
+	"BepInEx-BepInExPack-5.4.2100",
+	"Astro-BetterSprint-0.0.2",
+	"CommanderCat101-ContentSettings-1.0.1",
+	"zatrit-CWMouseWheel-1.0.20",
+	"RamuneNeptune-MakeMeRagdoll-1.1.1",
+	"GamingFrame-More_Comments-1.2.1",
+	"DiabolicalStudios-MoreCustomization-1.0.5",
+	"ViViKo-MoreSounds-1.0.2",
+	"www_Day_Dream-Shuv-0.2.1",
+	"Arargd-SillyItems-0.1.0"
+  ]
+}
